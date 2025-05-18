@@ -1,0 +1,14 @@
+name = "MMGet"
+uuid = "432213b9-92d5-47f4-b6f3-47692bb23a30"
+authors = ["Chloe McCarthy <cmccarth@mtu.edu>"]
+version = "0.1.0"
+
+[deps]
+Downloads = "f43a241f-c20a-4ad4-852c-f6b1247861c6"
+GZip = "92fee26a-97fe-5a0c-ad85-20a5f3185b63"
+MatrixMarket = "4d4711f2-db25-561a-b6b3-d35e7d4047d3"
+Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
+Tar = "a4e569a6-e804-4fa4-b0f3-eef7a1d5b13e"
+
+[compat]
+julia = "1"
