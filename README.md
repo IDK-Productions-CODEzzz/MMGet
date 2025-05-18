@@ -41,7 +41,7 @@ NOTE: If `wants_vec_x = true` or `wants_vec_b = true` but either vector is not a
 ## Example code ##
 ```jl:
 using Pkg
-Pkg.add(url="https://github.com/CHLOzzz/MMGet")
+Pkg.add(url="https://github.com/IDK-Productions-CODEzzz/MMGet")
 using MMGet
 
 A = MMGet.mmget("https://math.nist.gov/pub/MatrixMarket2/Harwell-Boeing/bcsstruc1/bcsstk01.mtx.gz", keep_files = true)
